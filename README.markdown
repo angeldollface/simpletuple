@@ -44,5 +44,5 @@ To inspect the available APIs, read the source code, please. I've split everythi
 
 ## Note :scroll:
 
-- *Simple tuple :abacus:* by Alexander Abraham :black_heart: a.k.a. *"Angel Dollface" :dolls: :ribbon:*
+- *Simple Tuple :abacus:* by Alexander Abraham :black_heart: a.k.a. *"Angel Dollface" :dolls: :ribbon:*
 - Licensed under the MIT license.

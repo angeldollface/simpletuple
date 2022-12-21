@@ -2,7 +2,7 @@
 
 [![GitHub CI](https://github.com/angeldollface/simpletuple/actions/workflows/dart.yml/badge.svg)](https://github.com/angeldollface/simpletuple/actions)
 
-*Handle tuples of N dimensions! :abacus:*
+***Handle tuples of N dimensions! :abacus:***
 
 ## About :books:
 

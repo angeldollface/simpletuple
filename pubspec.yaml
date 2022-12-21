@@ -5,4 +5,4 @@ homepage: https://github.com/angeldollface/simpletuple
 environment:
   sdk: '>=2.12.0 <3.0.0'
 dependencies:
-  pedantic: ^1.11.0
+  lints: ^2.0.1
